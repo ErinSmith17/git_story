@@ -1,1 +1,5 @@
 # git_story
+
+here is my prompt: You bought a home filled with cutting edge technology, including a helpful 'smart A.I.' that can do just about anything you ask them to. Unbeknownst to you, there actually is no A.I., the house is just haunted by a really helpful spirit, and they are posing as a program so they don't scare you.
+
+here is my frist paragraph: When my family and I bought this house my kids love the A.I. features but my wife was creeped out because she thought it was listening and watching us. She's very cautious about everything and wanted this house to be safe for the kids but I think this house is perfect for them. A.I. technology is very new and critics say "it improves the family's lifestyle by making it smoother and having a better connection", but my wife still thinks it's just another scam. Thankfully before we signed on the house she reluctantly gave in and allowed us to stay. We got a great deal on the house and for us to install this system into a house this old would have cost thousands so, in the end, it was a steal. 
